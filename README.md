@@ -1,3 +1,3 @@
 # first_repo
-This is going to be my first repository. This is only for the learning purpose.
+This is going to be my first repository. This is only for the learning purpose.<br>
 This is my first commit. 
